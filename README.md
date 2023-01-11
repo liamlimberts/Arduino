@@ -11,7 +11,8 @@ Von Patric Heil und Liam Limberts
 ## [1. Stunde, 11.01.2023](#1)
 ## [2. Stunde, 18.01.2023](#2)
 
-### [1. Stunde, 11.01.2023](#1)
+### <a name="1"></a> Stunde vom 11.01.2023
+
 In unserer ersten Doppelstunde nach den Winterferien, haben wir uns als aller erstes damit auseinandergesetzt, wie man eine LED, über den Arduino, zum leuchten bekommt. Dafür haben wir uns folgendes Video angeguckt https://www.youtube.com/watch?v=x8Nf0pDyDyQ&t=248. Das Video hat uns dann vermittelt, wie wir welche Komponenten auf dem Steckbrett einstecken müssen und wie man das Steckbrett mit dem Arduino verbindet. Da es danach leider noch nicht so funktionierte wie geplant, haben wir Philipp und Arvid um Hilfe gebeten, da diese ja bereits letztes Jahr mit dem Arduino gearbeitet haben. Mit denen haben wir dann folgenden Code überarbeitet,
 
 #### void setup() {
@@ -43,6 +44,6 @@ denn die LED wollte noch nicht leuchten. Philipp und Arvid haben uns dann gesagt
 Durch weiteres ausprobieren kam es dann dazu, dass wir 2 LEDs gleichzeitig zum blinken gebracht haben.
 PS: Bei der dritten LED funktionierte es dann nicht mehr.
 
-### [2. Stunde, 18.01.2023](#2)
+### <a name="2"></a> Stunde vom 18.01.2023
 
 
