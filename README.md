@@ -44,6 +44,8 @@ denn die LED wollte noch nicht leuchten. Philipp und Arvid haben uns dann gesagt
 Durch weiteres ausprobieren kam es dann dazu, dass wir 2 LEDs gleichzeitig zum blinken gebracht haben.
 PS: Bei der dritten LED funktionierte es dann nicht mehr.
 
+Am Ende der Doppelstunde haben wir uns dann noch Gedanken darüber gemacht, was wir in den Kommenden Wochen machen wollen. Dabei sind wir zu dem Entschluss gekommen, dass wir einen Helligkeitsmesser programieren wollen.
+
 ### <a name="2"></a> Stunde vom 18.01.2023
 
 
