@@ -48,7 +48,12 @@ PS: Bei der dritten LED funktionierte es dann nicht mehr.
 Am Ende der Doppelstunde haben wir uns dann noch Gedanken darüber gemacht, was wir in den Kommenden Wochen machen wollen. Dabei sind wir zu dem Entschluss gekommen, dass wir einen Helligkeitsmesser programieren wollen.
 
 ### <a name="2"></a> Stunde vom 17.01.2023
+Heute haben wir uns mit einem Servo Motor beschäftigt. Dabei haben wir es geschafft, dass sich der Propeller dreht. Als wir dies geschafft hatten, haben wir versucht den Propeller schneller zu drehen, indem wir Parameter im Codegeändert haben. Gegen Ende haben wir uns dann entschieden, uns mit einem Bewegeungsmelder zu befassen. Nächste Doppelstunde werden wir dann richtig mit unswerem Projekt starten. 
 
+
+
+Idee für die nächste Stunde: Bewegungsmelder
+Unbekannt ist led blinckien lassern
 
 ### <a name="3"></a> Stunde vom 18.01.2023
 
