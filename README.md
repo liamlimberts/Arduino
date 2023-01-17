@@ -9,7 +9,8 @@ Informatik, Bl
 Von Patric Heil und Liam Limberts
 
 ## [1. Stunde, 11.01.2023](#1)
-## [2. Stunde, 18.01.2023](#2)
+## [2. Stunde, 17.01.2023](#2)
+## [3. Stunde, 18.01.2023](#3)
 
 ### <a name="1"></a> Stunde vom 11.01.2023
 
@@ -46,6 +47,9 @@ PS: Bei der dritten LED funktionierte es dann nicht mehr.
 
 Am Ende der Doppelstunde haben wir uns dann noch Gedanken darüber gemacht, was wir in den Kommenden Wochen machen wollen. Dabei sind wir zu dem Entschluss gekommen, dass wir einen Helligkeitsmesser programieren wollen.
 
-### <a name="2"></a> Stunde vom 18.01.2023
+### <a name="2"></a> Stunde vom 17.01.2023
+
+
+### <a name="3"></a> Stunde vom 18.01.2023
 
 
