@@ -58,9 +58,9 @@ Idee für die nächste Stunde: Bewegungsmelder
 Unbekannt ist led blinckien lassern
 
 ### <a name="3"></a> Stunde vom 18.01.2023
-
+In der heutigen Doppelstunde haben wir angefangen mit dem Bewegungsmelder zu arbeiten. Wir haben dazu verschieden YT-Videos zur Unterstützung hinzugezogen, um einen Sketch schreiben zu können und die einzelnen Komponenten richtig zu verbinden. Dennoch konnten wir am Ende der Doppelstunde keine Erfolge verzeichnen, da die LED, nicht auf Bewegungen reagiert hat bzw. angefangen hat zu leuchten. Dank Hernn Buhl konnten wir erkennen, wann genau der Bewegungsmelder, bewegungen erkennt und wann nicht.
 ### <a name="4"></a> Stunde vom 24.01.2023
-
+Liam krank
 ### <a name="5"></a> Stunde vom 25.01.2023
-
+Der Bewegungsmelder hat zwar funktioniert,jedoch nicht präzise genug, wie wir gehofft hatten, deswegen haben wir uns dazu entschieden, ein anderes Projekt in Angriff zu nehmen. Wir haben uns schlussendlich für einen Radar entschieden, der Gegenstände auf dem Bildschirm abbilden kann. Die Idee dafür habe ich über eine Website (https://all3dp.com/de/1/beste-arduino-projekte/) bekommen, die verschiedene Arduino-Projekte präsentiert.
 
