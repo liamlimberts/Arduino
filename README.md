@@ -58,9 +58,13 @@ Idee für die nächste Stunde: Bewegungsmelder
 Unbekannt ist led blinckien lassern
 
 ### <a name="3"></a> Stunde vom 18.01.2023
+
 In der heutigen Doppelstunde haben wir angefangen mit dem Bewegungsmelder zu arbeiten. Wir haben dazu verschieden YT-Videos zur Unterstützung hinzugezogen, um einen Sketch schreiben zu können und die einzelnen Komponenten richtig zu verbinden. Dennoch konnten wir am Ende der Doppelstunde keine Erfolge verzeichnen, da die LED, nicht auf Bewegungen reagiert hat bzw. angefangen hat zu leuchten. Dank Hernn Buhl konnten wir erkennen, wann genau der Bewegungsmelder, bewegungen erkennt und wann nicht.
-### <a name="4"></a> Stunde vom 24.01.2023
-Liam krank
+
+### <a name="4"></a> Stunde vom 24.01.202
+
+Heute haben wir uns weier mit dem Bewegungsmelder auseinander gesetzt. Dabei ging es und darum, den Bewegungsmelder so einzustellen, dass er die Bewegungen erkennt und dann die LED einschaltet. Leider funktionierte das nicht so wie gedacht. Darauf hin haben wir uns dann an Hernn Buhl gewendet, der uns versucht hat weiter zu helfen. Herr Buhl hatte neue Bewegungsmelder bestellt, in der Hoffnung das es mit denen dann funktioniert. Das Resultat, nach dem Versuch mit den neuen Bewegungsmeldern, war, anders als erhofft, dass die Bewegungsmelder immer noch nicht das taten was sie eigentlich sollten. Am Ende der Stunde erklärte sich Herr Buhl dann bereit, sich das ganze noch einmal anzugucken und uns dann am nächsten Tag damiut weiter zuhelfen. 
+
 ### <a name="5"></a> Stunde vom 25.01.2023
 Der Bewegungsmelder hat zwar funktioniert,jedoch nicht präzise genug, wie wir gehofft hatten, deswegen haben wir uns dazu entschieden, ein anderes Projekt in Angriff zu nehmen. Wir haben uns schlussendlich für einen Radar entschieden, der Gegenstände auf dem Bildschirm abbilden kann. Die Idee dafür habe ich über eine Website (https://all3dp.com/de/1/beste-arduino-projekte/) bekommen, die verschiedene Arduino-Projekte präsentiert. In der zweiten Stunde haben wir dann schonmal den Servomotor, den Entfernungsmesser und das Arduino-Board miteinander verbunden.
 
