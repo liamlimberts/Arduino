@@ -13,6 +13,7 @@ Von Patric Heil und Liam Limberts
 ## [3. Stunde, 18.01.2023](#3)
 ## [4. Stunde, 24.01.2023](#4)
 ## [5. Stunde, 25.01.2023](#5)
+## [6. Stunde, 30.01.2023](#6)
 
 ### <a name="1"></a> Stunde vom 11.01.2023
 
@@ -67,4 +68,7 @@ Heute haben wir uns weier mit dem Bewegungsmelder auseinander gesetzt. Dabei gin
 
 ### <a name="5"></a> Stunde vom 25.01.2023
 Der Bewegungsmelder hat zwar funktioniert,jedoch nicht präzise genug, wie wir gehofft hatten, deswegen haben wir uns dazu entschieden, ein anderes Projekt in Angriff zu nehmen. Wir haben uns schlussendlich für einen Radar entschieden, der Gegenstände auf dem Bildschirm abbilden kann. Die Idee dafür habe ich über eine Website (https://all3dp.com/de/1/beste-arduino-projekte/) bekommen, die verschiedene Arduino-Projekte präsentiert. In der zweiten Stunde haben wir dann schonmal den Servomotor, den Entfernungsmesser und das Arduino-Board miteinander verbunden.
+
+### <a name="6"></a> Stunde vom 31.01.2023
+fdf
 
