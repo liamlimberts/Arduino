@@ -23,7 +23,7 @@ Von Patric Heil und Liam Limberts
 In unserer ersten Doppelstunde nach den Winterferien, haben wir uns als aller erstes damit auseinandergesetzt, wie man eine LED, über den Arduino, zum leuchten bekommt. Dafür haben wir uns folgendes Video angeguckt https://www.youtube.com/watch?v=x8Nf0pDyDyQ&t=248. Das Video hat uns dann vermittelt, wie wir welche Komponenten auf dem Steckbrett einstecken müssen und wie man das Steckbrett mit dem Arduino verbindet. Da es danach leider noch nicht so funktionierte wie geplant, haben wir Philipp und Arvid um Hilfe gebeten, da diese ja bereits letztes Jahr mit dem Arduino gearbeitet haben. Mit denen haben wir dann folgenden Code überarbeitet,
 
 <details>
-<summary> Unsere Steuerung</summary>
+<summary> alter Code </summary>
   
 #### void setup() {
 
@@ -41,6 +41,9 @@ In unserer ersten Doppelstunde nach den Winterferien, haben wir uns als aller er
 
 denn die LED wollte noch nicht leuchten. Philipp und Arvid haben uns dann gesagt, dass die Zahl die man eingibt, beim OUTPUT und beim digitalWrite, mit der Zahl auf dem Arduino übereinstimmen muss,da wo man die Kabel reinsteckt. Danach hatten wir dann den folgenden Code.
 
+<details>
+<summary> überarbeiteter Code </summary>
+  
 #### void setup() {
 
 ####  pinMode(13, OUTPUT);
@@ -52,6 +55,8 @@ denn die LED wollte noch nicht leuchten. Philipp und Arvid haben uns dann gesagt
 ####  digitalWrite(13, LOW);
 #### delay(1000);
 #### }
+  
+</details>
 
 Durch weiteres ausprobieren kam es dann dazu, dass wir 2 LEDs gleichzeitig zum blinken gebracht haben.
 PS: Bei der dritten LED funktionierte es dann nicht mehr.
