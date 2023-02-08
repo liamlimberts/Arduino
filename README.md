@@ -16,6 +16,7 @@ Von Patric Heil und Liam Limberts
 ## [6. Stunde, 30.01.2023](#6)
 ## [7. Stunde, 01.02.2023](#7)
 ## [8. Stunde, 08.02.2023](#8)
+## [9. Stunde, 15.02.2023](#9)
 
 
 ### <a name="1"></a> Stunde vom 11.01.2023
@@ -92,3 +93,7 @@ In der Stunde am 31.01.2023 haben wir uns weiter mit dem Arduino auseinander ges
 Eigentlich wollten wir heute unseren Aufbau zu Ende bringen und dann den Radar testen. Da Liam heute leider krank gewesen ist, und ich einen Arzttermin hatte, haben wir heute garnichts geschafft.
 
 ### <a name="8"></a> Stunde vom 08.02.2023
+Heute haben wir uns mit der Installation von dem Entferungsmesser, auf den Servomotor beschäftigt. Der Servomotor, soll sich bestenfalls hin und her bewegen können, in einem 180 Grad Radius, damit der Entferungsmesser nicht nur in eine Richtung die Entferung messen kann. Wir haben also ein Konstrukt aus Pappe und Panzerglas gebastelt, womit die Kabel vom Entferungsmesser festgehalten werden und der entfernungsmesser senkrecht auf den Servomotor montiert wird. Da der Unterricht verspätet angefangen hat, konnten wir in der Stunde leider nicht mehr schaffen.
+
+### <a name="9"></a> Stunde vom 15.02.2023
+
