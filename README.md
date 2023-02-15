@@ -17,6 +17,8 @@ Von Patric Heil und Liam Limberts
 ## [7. Stunde, 01.02.2023](#7)
 ## [8. Stunde, 08.02.2023](#8)
 ## [9. Stunde, 15.02.2023](#9)
+## [10. Stunde, 17.02.2023](#10)
+## [11. Stunde, 22.02.2023](#11)
 
 
 ### <a name="1"></a> Stunde vom 11.01.2023
@@ -96,4 +98,12 @@ Eigentlich wollten wir heute unseren Aufbau zu Ende bringen und dann den Radar t
 Heute haben wir uns mit der Installation von dem Entferungsmesser, auf den Servomotor beschäftigt. Der Servomotor, soll sich bestenfalls hin und her bewegen können, in einem 180 Grad Radius, damit der Entferungsmesser nicht nur in eine Richtung die Entferung messen kann. Wir haben also ein Konstrukt aus Pappe und Panzerglas gebastelt, womit die Kabel vom Entferungsmesser festgehalten werden und der entfernungsmesser senkrecht auf den Servomotor montiert wird. Da der Unterricht verspätet angefangen hat, konnten wir in der Stunde leider nicht mehr schaffen.
 
 ### <a name="9"></a> Stunde vom 15.02.2023
+In der heutigen Einzelstunde habne wir versucht usn weiter mit unserme Projekt auseinander zu setzen nd die Fehler in unserem Programm zu beheben. Aufgrund der miserablen Hardware der Schule, gelang es uns jedoch leider nicht dieses Vorhaben umzusetzen. Kurz gesagt, wir spind nicht voran gekommen und haben somit nichts geschafft in dieser Stunde :(. 
+
+### <a name="10"></a> Stunde vom 17.02.2023
+Die Doppelstunde am 17.02.2023 ist aufgrund des Prjoltages leider ausgefallen.
+
+### <a name="11"></a> Stunde vom 22.02.2023
+
+
 
