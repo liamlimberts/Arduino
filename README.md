@@ -104,6 +104,6 @@ In der heutigen Einzelstunde habne wir versucht usn weiter mit unserme Projekt a
 Die Doppelstunde am 17.02.2023 ist aufgrund des Prjoltages leider ausgefallen.
 
 ### <a name="11"></a> Stunde vom 22.02.2023
-
+Heute konnten wir mit unserem Projekt fortfahren, da Herrn Buhl freundlicherweise unseren Fehler mit dem Servomotor behoben hat. Jetzt dreht sich der Servomotor etwas schneller und ohne zwischendurch anzuhalten. Die restliche Stune haben wir versucht einen Fehler im Code zu beheben
 
 
