@@ -19,6 +19,7 @@ Von Patric Heil und Liam Limberts
 ## [9. Stunde, 15.02.2023](#9)
 ## [10. Stunde, 17.02.2023](#10)
 ## [11. Stunde, 22.02.2023](#11)
+## [12. Stunde, 24.02.2023](#12)
 
 
 ### <a name="1"></a> Stunde vom 11.01.2023
@@ -106,4 +107,5 @@ Die Doppelstunde am 17.02.2023 ist aufgrund des Prjoltages leider ausgefallen.
 ### <a name="11"></a> Stunde vom 22.02.2023
 Heute konnten wir mit unserem Projekt fortfahren, da Herrn Buhl freundlicherweise unseren Fehler mit dem Servomotor behoben hat. Jetzt dreht sich der Servomotor etwas schneller und ohne zwischendurch anzuhalten. Die restliche Stune haben wir versucht einen Fehler im Code zu beheben
 
-
+### <a name="12"></a> Stunde vom 24.02.2023
+In der Stunde am 24.02.2023 haben wir uns dazu entschieden, nach längeren rumprobieren, dass es besser wäre nocheinmal neu, mit einem neuen Code, anzufangen. Daher haben wir unsere bisherigen Erfolge gelöscht und unter https://www.electronics-lab.com/project/using-sg90-servo-motor-arduino/ und https://elektro.turanis.de/html/prj121/index.html neue Codes geunden, mit welchen wir arbeiten können. Nach kurz fein justierung der Codes, sodass sie zusammen funktionieren, hat es dann auch funktioniert.
