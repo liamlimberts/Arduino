@@ -20,6 +20,7 @@ Von Patric Heil und Liam Limberts
 ## [10. Stunde, 17.02.2023](#10)
 ## [11. Stunde, 22.02.2023](#11)
 ## [12. Stunde, 24.02.2023](#12)
+## [13. Stunde, 01.03.2023](#13)
 
 
 ### <a name="1"></a> Stunde vom 11.01.2023
@@ -109,3 +110,6 @@ Heute konnten wir mit unserem Projekt fortfahren, da Herrn Buhl freundlicherweis
 
 ### <a name="12"></a> Stunde vom 24.02.2023
 In der Stunde am 24.02.2023 haben wir uns dazu entschieden, nach längeren rumprobieren, dass es besser wäre nocheinmal neu, mit einem neuen Code, anzufangen. Daher haben wir unsere bisherigen Erfolge gelöscht und unter https://www.electronics-lab.com/project/using-sg90-servo-motor-arduino/ und https://elektro.turanis.de/html/prj121/index.html neue Codes geunden, mit welchen wir arbeiten können. Nach einer kurzen Feinjustierung der Codes, sodass sie zusammen funktionieren, hat es dann auch endlich funktioniert. Jetzt dreht sich der Servo-Motor 180 Grad nach links und anschließend dann nach rechts. Und nun funktioniert auch der Entfernungsmesser, der uns jetzt Zentimetergenau sagen kann wie weit ein Objekt, von dem Messgerät entfernt ist. Unser Ziel istes in den nächsten Stunden, die Funktionen der einzelnen Komponenten zu kombinieren, um ein funktionierendes Radar zu kreieren. 
+
+### <a name="13"></a> Stunde vom 01.03.2023
+In unser heutigen einzelstunde haben wir uns damit auseinander gesetzt wie wir ein Radar vom Cuputer zeichnen lassen können, sodass dieses uns am Ende anzeigt, wo gerade was vom Sensor erkannt wird. Da wir leider nicht erfolgreich waren, werden wir uns am kommenden Freitag weiter damit auseinander setzten.
