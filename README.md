@@ -21,6 +21,8 @@ Von Patric Heil und Liam Limberts
 ## [11. Stunde, 22.02.2023](#11)
 ## [12. Stunde, 24.02.2023](#12)
 ## [13. Stunde, 01.03.2023](#13)
+## [14. Stunde, 08.03.2023](#14)
+## [15. Stunde, 10.03.2023](#15)
 
 
 ### <a name="1"></a> Stunde vom 11.01.2023
@@ -113,3 +115,10 @@ In der Stunde am 24.02.2023 haben wir uns dazu entschieden, nach längeren rumpr
 
 ### <a name="13"></a> Stunde vom 01.03.2023
 In unser heutigen einzelstunde haben wir uns damit auseinander gesetzt wie wir ein Radar vom Cuputer zeichnen lassen können, sodass dieses uns am Ende anzeigt, wo gerade was vom Sensor erkannt wird. Da wir leider nicht erfolgreich waren, werden wir uns am kommenden Freitag weiter damit auseinander setzten.
+
+### <a name="14"></a> Stunde vom 08.03.2023
+Am 08.03.2023 haben wir haben wir versucht unsere Fehler weiter zu verringern, leider jedoch mit wenig Erfolg. Wir haben versucht einen Radar zu programmieren und diesen Radar dann kompatibel mit unseren bisherigen Code zusammen zu fügen, sodass das dann beides Parallel zu einander laufen kann. Das hat leider nicht funktioniert, weshalb wir dann am Ende der Stunde uns dazu entschieden haben die Idee mit dem Radar komplett zu verwerfen und uns auf eine Digitakeanzeige zu konzentrieren. 
+Das werden wir jetzt in de rnächsten Stunde ins Visiert nehmen und versuchen schnellst möglich umzusetzen.
+
+### <a name="15"></a> Stunde vom 10.03.2023
+In der Doppelstunde am 10.03.2023 haben wir, wie bereits am 08.03.2023 erwähnt, damit begonnen uns damit auseinander zusetzten wie wir ein LCD Display mit dem Arduino und dem entfernungsmesser verbinden können. Bevor wir uns damit jedoch auseinander setzen konnten, mussten wir erst mal einen Weg finden wie wir Arduino starten können
