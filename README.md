@@ -1,6 +1,6 @@
 # Stundenprotokolle 12. Klasse 2. Halbjahr
 
-![bsp greenfoot](Arduino_Projekt_Bilder/Stormarnschule_Bild.jpg "Stormarnschule")
+![bsp greenfoot](Bilder/Stormarnschule_Github.jpg "Stormarnschule")
 
 Stormarnschule 2022
 
