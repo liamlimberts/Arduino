@@ -107,7 +107,7 @@ Heute haben wir uns mit der Installation von dem Entferungsmesser, auf den Servo
 In der heutigen Einzelstunde habne wir versucht usn weiter mit unserme Projekt auseinander zu setzen nd die Fehler in unserem Programm zu beheben. Aufgrund der miserablen Hardware der Schule, gelang es uns jedoch leider nicht dieses Vorhaben umzusetzen. Kurz gesagt, wir spind nicht voran gekommen und haben somit nichts geschafft in dieser Stunde :(. 
 
 ### <a name="10"></a> Stunde vom 17.02.2023
-Die Doppelstunde am 17.02.2023 ist aufgrund des Prjoltages leider ausgefallen.
+Die Doppelstunde am 17.02.2023 ist aufgrund des Projektages leider ausgefallen.
 
 ### <a name="11"></a> Stunde vom 22.02.2023
 Heute konnten wir mit unserem Projekt fortfahren, da Herrn Buhl freundlicherweise unseren Fehler mit dem Servomotor behoben hat. Jetzt dreht sich der Servomotor etwas schneller und ohne zwischendurch anzuhalten. Die restliche Stune haben wir versucht einen Fehler im Code zu beheben
