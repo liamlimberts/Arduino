@@ -1,4 +1,4 @@
-# Stundenprotokolle 12. Klasse 2. Halbjahr
+# Stundenprotokoll 12. Klasse 2. Halbjahr
 
 ![bsp greenfoot](Stormarnschule_Bild.png "Stormarnschule")
 
