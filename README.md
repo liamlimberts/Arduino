@@ -23,7 +23,6 @@ Von Patric Heil und Liam Limberts
 ## [13. Stunde, 01.03.2023](#13)
 ## [14. Stunde, 08.03.2023](#14)
 ## [15. Stunde, 10.03.2023](#15)
-## [16. Stunde, 31.03.2023](#16)
 
 
 
@@ -124,6 +123,3 @@ Das werden wir jetzt in de rnächsten Stunde ins Visiert nehmen und versuchen sc
 
 ### <a name="15"></a> Stunde vom 10.03.2023
 In der Doppelstunde am 10.03.2023 haben wir, wie bereits am 08.03.2023 erwähnt, damit begonnen uns damit auseinander zusetzten wie wir ein LCD Display mit dem Arduino und dem Entfernungsmesser verbinden können. Bevor wir uns damit jedoch auseinander setzen konnten, mussten wir erst mal einen Weg finden wie wir Arduino starten können. Dafür haben wir dann unter folgendem Link https://docs.arduino.cc/software/ide-v1/tutorials/PortableIDE Arduino Portable heruntergeladen, um dann im nachhinein erstmal ewig warten zu dürfen bis Arduino heruntergeladen war. Währenddessen haben wir bereits den Aufbau ohne Entfernungsmesser fertiggestellt. Den Aufbau haben wir unter folgendem Link gefunden https://polluxlabs.net/arduino-tutorials/ein-lcd-display-am-arduino-anschliessen/.
-
-### <a name="16"></a> Stunde vom 31.03.2023
-
